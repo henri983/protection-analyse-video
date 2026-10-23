@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Secrets & Environment
+.env
+*.pem
+*.key
+
+# Test & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Media temporary chunks
+*.ts
+*.m4s
+*.mp4
+
+# IDE
+.idea/
+.vscode/
+*.swp
